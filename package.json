@@ -1,0 +1,26 @@
+{
+  "name": "rest-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juminhark/rest-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juminhark/rest-tutorial/issues"
+  },
+  "homepage": "https://github.com/Juminhark/rest-tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.9",
+    "nodemon": "^1.19.0"
+  }
+}
